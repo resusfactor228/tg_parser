@@ -1,4 +1,4 @@
-# CRM Telegram Parser
+# Telegram Parser
 
 Локальный парсер участников Telegram-групп. Заходит в ваш аккаунт через MTProto API и собирает информацию об участниках непубличных групп: имена, никнеймы, телефоны, bio.
 
@@ -12,7 +12,7 @@
 
 ```bash
 git clone <repo>
-cd CRM_tg_parse
+cd tg_parser
 pip install -r requirements.txt
 ```
 
